@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neiron", "neiron\neiron.csproj", "{9BAABF6C-0542-414A-B3A9-F93C6B348CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAABF6C-0542-414A-B3A9-F93C6B348CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAABF6C-0542-414A-B3A9-F93C6B348CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAABF6C-0542-414A-B3A9-F93C6B348CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAABF6C-0542-414A-B3A9-F93C6B348CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E266C3-3F15-40C9-851B-D7B7EEF690EC}
+	EndGlobalSection
+EndGlobal
